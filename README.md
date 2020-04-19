@@ -2,6 +2,7 @@
 
 **This version is a fork of the original one, which removes CUDA support to be able to render from your CPU. This way AMD GPU users can also use this program.**
 **You may want to download the non-CUDA PyTorch tu run the program. Search for pytorch.org or paste this into cmd/Terminal:**
+
 `pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html`
 
 This repository is an implementation of [Transfer Learning from Speaker Verification to
